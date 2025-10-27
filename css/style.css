@@ -31,3 +31,21 @@ body, html{
 	color: #fff;
 	width: 90%;
 }
+.main-menu{
+	list-style: none;
+	float: right;
+	margin-top: 19px;
+}
+.btn{
+	background: blue;
+	color: white;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+.btn:hover{
+	color: red;
+	background: white;
+	padding: 3px 3px;
+	border: 2px solid #f05462; 
+}
